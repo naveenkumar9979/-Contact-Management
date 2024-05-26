@@ -3,8 +3,7 @@ This is a contact management app built using ReactJS, JavaScript, TailwindCSS, R
 The app includes a dashboard with charts and maps that display COVID-19 data for different countries.
 
 # Deployed Link : -
- https://github.com/naveenkumar9979/-Contact-Management/
-
+https://665344d0c521726ff1ce1e3c--scintillating-arithmetic-be5e84.netlify.app/
 # Pages and Functionality
 The app has two main pages:
 
